@@ -10,6 +10,7 @@
         -   [BinaryGap](#s_1_binary_gap)
     -   [Lesson 2 - Arrays](#s_2)
         -   [OddOccurrencesInArray](#s_2_odd_occurrences_in_array)
+    -   [Lesson 3 - Time Complexity](#s_3)
 -   Licence
 
 <a name="installation"></a>
@@ -77,6 +78,22 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson2_a
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingANTA8N-THQ/
+
+<a name="s_3"></a>
+
+### Lesson 3 - Time Complexity
+
+<a name="s_3_frog_jmp"></a>
+
+#### FrogJmp
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson3_time_complexity/FrogJmp.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingUMQM7T-NMD/
 
 <a name="licence"></a>
 
