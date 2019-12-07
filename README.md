@@ -156,6 +156,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson4_c
 
 https://app.codility.com/demo/results/training5PWD9F-PE9/
 
+<a name="s_4_max_counters"></a>
+
+#### MaxCounters
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson4_counting_elements/MaxCounters.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/training5T6ZHR-8ZK/
+
 <a name="licence"></a>
 
 ## License
