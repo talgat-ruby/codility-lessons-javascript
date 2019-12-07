@@ -15,6 +15,8 @@
         -   [FrogJmp](#s_3_frog_jmp)
         -   [PermMissingElem](#s_3_perm_missing_elem)
         -   [TapeEquilibrium](#s_3_tape_equilibrium)
+    -   [Lesson 4 - Counting Elements](#s_4)
+        -   [PermCheck](#s_4_perm_check)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -124,6 +126,22 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson3_t
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingYS6XUW-DSE/
+
+<a name="s_4"></a>
+
+### Lesson 4 - Counting Elements
+
+<a name="s_4_perm_check"></a>
+
+#### PermCheck
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson4_counting_elements/PermCheck.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingCNTYP4-RDE/
 
 <a name="licence"></a>
 
