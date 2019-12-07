@@ -19,6 +19,7 @@
         -   [PermCheck](#s_4_perm_check)
         -   [FrogRiverOne](#s_4_frog_river_one)
         -   [MaxCounters](#s_4_max_counters)
+        -   [MissingInteger](#s_4_max_counters)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -168,6 +169,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson4_c
 ##### Link to Report
 
 https://app.codility.com/demo/results/training5T6ZHR-8ZK/
+
+<a name="s_4_missing_integer"></a>
+
+#### MissingInteger
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson4_counting_elements/MissingInteger.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/training86F8QY-JHX/
 
 <a name="licence"></a>
 
