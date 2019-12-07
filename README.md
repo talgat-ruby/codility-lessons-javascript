@@ -14,6 +14,7 @@
     -   [Lesson 3 - Time Complexity](#s_3)
         -   [FrogJmp](#s_3_frog_jmp)
         -   [PermMissingElem](#s_3_perm_missing_elem)
+        -   [TapeEquilibrium](#s_3_tape_equilibrium)
 -   Licence
 
 <a name="installation"></a>
@@ -111,6 +112,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson3_t
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingH7B962-362/
+
+<a name="s_3_tape_equilibrium"></a>
+
+#### TapeEquilibrium
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson3_time_complexity/TapeEquilibrium.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingYS6XUW-DSE/
 
 <a name="licence"></a>
 
