@@ -2,15 +2,15 @@
 
 ## References
 
-- [Installation](#installation)
-- [Test](#test)
-- [Description](#description)
-- [Solutions](#solutions)
-  - [Lesson 1 - Iterations](#s_1)
-    - [BinaryGap](#s_1_binary_gap)
-  - [Lesson 2 - Arrays](#s_2)
-    - [OddOccurrencesInArray](#s_2_odd_occurrences_in_array)
-- Licence
+-   [Installation](#installation)
+-   [Test](#test)
+-   [Description](#description)
+-   [Solutions](#solutions)
+    -   [Lesson 1 - Iterations](#s_1)
+        -   [BinaryGap](#s_1_binary_gap)
+    -   [Lesson 2 - Arrays](#s_2)
+        -   [OddOccurrencesInArray](#s_2_odd_occurrences_in_array)
+-   Licence
 
 <a name="installation"></a>
 
@@ -67,6 +67,16 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson2_a
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingZ4B2XJ-8AS/
+
+#### CyclicRotation
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson2_arrays/CyclicRotation.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingANTA8N-THQ/
 
 <a name="licence"></a>
 
