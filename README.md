@@ -18,6 +18,7 @@
     -   [Lesson 4 - Counting Elements](#s_4)
         -   [PermCheck](#s_4_perm_check)
         -   [FrogRiverOne](#s_4_frog_river_one)
+        -   [MaxCounters](#s_4_max_counters)
 -   [Licence](#licence)
 
 <a name="installation"></a>
