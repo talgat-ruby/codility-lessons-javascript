@@ -15,7 +15,7 @@
         -   [FrogJmp](#s_3_frog_jmp)
         -   [PermMissingElem](#s_3_perm_missing_elem)
         -   [TapeEquilibrium](#s_3_tape_equilibrium)
--   Licence
+-   [Licence](#licence)
 
 <a name="installation"></a>
 
