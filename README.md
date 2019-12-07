@@ -10,7 +10,9 @@
         -   [BinaryGap](#s_1_binary_gap)
     -   [Lesson 2 - Arrays](#s_2)
         -   [OddOccurrencesInArray](#s_2_odd_occurrences_in_array)
+        -   [CyclicRotation](#s_2_cyclic_rotation)
     -   [Lesson 3 - Time Complexity](#s_3)
+        -   [FrogJmp](#s_3_frog_jmp)
 -   Licence
 
 <a name="installation"></a>
@@ -68,6 +70,8 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson2_a
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingZ4B2XJ-8AS/
+
+<a name="s_2_cyclic_rotation"></a>
 
 #### CyclicRotation
 
