@@ -13,6 +13,7 @@
         -   [CyclicRotation](#s_2_cyclic_rotation)
     -   [Lesson 3 - Time Complexity](#s_3)
         -   [FrogJmp](#s_3_frog_jmp)
+        -   [PermMissingElem](#s_3_perm_missing_elem)
 -   Licence
 
 <a name="installation"></a>
@@ -98,6 +99,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson3_t
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingUMQM7T-NMD/
+
+<a name="s_3_perm_missing_elem"></a>
+
+#### PermMissingElem
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson3_time_complexity/PermMissingElem.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingH7B962-362/
 
 <a name="licence"></a>
 
