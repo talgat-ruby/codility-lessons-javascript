@@ -1,4 +1,4 @@
-# mckinsey-initial-task
+# Codility Lessons - Javascript
 
 ## Installation
 
