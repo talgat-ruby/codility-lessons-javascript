@@ -20,6 +20,8 @@
         -   [FrogRiverOne](#s_4_frog_river_one)
         -   [MaxCounters](#s_4_max_counters)
         -   [MissingInteger](#s_4_max_counters)
+    -   [Lesson 5 - Prefix Sums](#s_5)
+        -   [PassingCars](#s_5_passing_cars)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -181,6 +183,22 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson4_c
 ##### Link to Report
 
 https://app.codility.com/demo/results/training86F8QY-JHX/
+
+<a name="s_5"></a>
+
+### Lesson 5 - Prefix Sums
+
+<a name="s_5_passing_cars"></a>
+
+#### PassingCars
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson5_prefix_sums/PassingCars.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingXE4UJW-CME/
 
 <a name="licence"></a>
 
