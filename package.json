@@ -1,0 +1,27 @@
+{
+  "name": "codility-lessons-javascript",
+  "version": "1.0.0",
+  "description": "Codility solutions in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talgat-ruby/codility-lessons-javascript.git"
+  },
+  "keywords": [
+    "codility",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talgat-ruby/codility-lessons-javascript/issues"
+  },
+  "homepage": "https://github.com/talgat-ruby/codility-lessons-javascript#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "prettier": "^1.19.1"
+  }
+}
