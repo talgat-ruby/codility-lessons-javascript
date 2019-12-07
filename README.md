@@ -17,6 +17,7 @@
         -   [TapeEquilibrium](#s_3_tape_equilibrium)
     -   [Lesson 4 - Counting Elements](#s_4)
         -   [PermCheck](#s_4_perm_check)
+        -   [FrogRiverOne](#s_4_frog_river_one)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -142,6 +143,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson4_c
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingCNTYP4-RDE/
+
+<a name="s_4_frog_river_one"></a>
+
+#### FrogRiverOne
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson4_counting_elements/FrogRiverOne.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/training5PWD9F-PE9/
 
 <a name="licence"></a>
 
