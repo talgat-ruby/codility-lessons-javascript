@@ -22,6 +22,7 @@
         -   [MissingInteger](#s_4_max_counters)
     -   [Lesson 5 - Prefix Sums](#s_5)
         -   [PassingCars](#s_5_passing_cars)
+        -   [GenomicRangeQuery](#s_5_genomic_range_query)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -199,6 +200,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson5_p
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingXE4UJW-CME/
+
+<a name="s_5_genomic_range_query"></a>
+
+#### GenomicRangeQuery
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson5_prefix_sums/GenomicRangeQuery.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingNRWKMW-CSJ/
 
 <a name="licence"></a>
 
