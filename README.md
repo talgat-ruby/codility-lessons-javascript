@@ -25,6 +25,8 @@
         -   [GenomicRangeQuery](#s_5_genomic_range_query)
         -   [MinAvgTwoSlice](#s_5_min_avg_two_slice)
         -   [CountDiv](#s_5_count_div)
+    -   [Lesson 6 - Sorting](#s_6)
+        -   [MaxProductOfThree](#s_6_max_product_of_three)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -238,6 +240,22 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson5_p
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingP6XQJ7-KM7/
+
+<a name="s_6"></a>
+
+### Lesson 6 - Sorting
+
+<a name="s_6_max_product_of_three"></a>
+
+#### MaxProductOfThree
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson6_sorting/MaxProductOfThree.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingWJKGRA-8JV/
 
 <a name="licence"></a>
 
