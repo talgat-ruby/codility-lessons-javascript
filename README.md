@@ -27,6 +27,7 @@
         -   [CountDiv](#s_5_count_div)
     -   [Lesson 6 - Sorting](#s_6)
         -   [MaxProductOfThree](#s_6_max_product_of_three)
+        -   [Distinct](#s_6_distinct)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -256,6 +257,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson6_s
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingWJKGRA-8JV/
+
+<a name="s_6_distinct"></a>
+
+#### Distinct
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson6_sorting/Distinct.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingBVMXV7-F9S/
 
 <a name="licence"></a>
 
