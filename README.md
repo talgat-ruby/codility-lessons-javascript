@@ -23,6 +23,7 @@
     -   [Lesson 5 - Prefix Sums](#s_5)
         -   [PassingCars](#s_5_passing_cars)
         -   [GenomicRangeQuery](#s_5_genomic_range_query)
+        -   [MinAvgTwoSlice](#s_5_min_avg_two_slice)
         -   [CountDiv](#s_5_count_div)
 -   [Licence](#licence)
 
@@ -213,6 +214,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson5_p
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingNRWKMW-CSJ/
+
+<a name="s_5_min_avg_two_slice"></a>
+
+#### MinAvgTwoSlice
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson5_prefix_sums/MinAvgTwoSlice.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingH4MVH3-G94/
 
 <a name="s_5_count_div"></a>
 
