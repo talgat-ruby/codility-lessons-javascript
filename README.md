@@ -28,6 +28,7 @@
     -   [Lesson 6 - Sorting](#s_6)
         -   [MaxProductOfThree](#s_6_max_product_of_three)
         -   [Distinct](#s_6_distinct)
+        -   [Triangle](#s_6_triangle)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -269,6 +270,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson6_s
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingBVMXV7-F9S/
+
+<a name="s_6_triangle"></a>
+
+#### Triangle
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson6_sorting/Triangle.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/training62TT8U-DCH/
 
 <a name="licence"></a>
 
