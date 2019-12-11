@@ -29,6 +29,7 @@
         -   [MaxProductOfThree](#s_6_max_product_of_three)
         -   [Distinct](#s_6_distinct)
         -   [Triangle](#s_6_triangle)
+        -   ~~NumberOfDiscIntersections~~
     -   [Lesson 7 - Stacks and Queues](#s_7)
         -   [Brackets](#s_7_brackets)
 -   [Licence](#licence)
