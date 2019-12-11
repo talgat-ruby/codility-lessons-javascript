@@ -29,6 +29,8 @@
         -   [MaxProductOfThree](#s_6_max_product_of_three)
         -   [Distinct](#s_6_distinct)
         -   [Triangle](#s_6_triangle)
+    -   [Lesson 7 - Stacks and Queues](#s_7)
+        -   [Brackets](#s_7_brackets)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -282,6 +284,22 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson6_s
 ##### Link to Report
 
 https://app.codility.com/demo/results/training62TT8U-DCH/
+
+<a name="s_7"></a>
+
+### Lesson 7 - Stacks and Queues
+
+<a name="s_7_stacks_and_queues"></a>
+
+#### MaxProductOfThree
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson7_stacks_and_queues/Brackets.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingDYK3SU-2EQ/
 
 <a name="licence"></a>
 
