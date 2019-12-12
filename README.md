@@ -32,6 +32,8 @@
         -   ~~NumberOfDiscIntersections~~
     -   [Lesson 7 - Stacks and Queues](#s_7)
         -   [Brackets](#s_7_brackets)
+        -   ~~Fish~~
+        -   [Nesting](#s_7_nesting)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -290,9 +292,9 @@ https://app.codility.com/demo/results/training62TT8U-DCH/
 
 ### Lesson 7 - Stacks and Queues
 
-<a name="s_7_stacks_and_queues"></a>
+<a name="s_7_brackets"></a>
 
-#### MaxProductOfThree
+#### Brackets
 
 ##### File
 
@@ -301,6 +303,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson7_s
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingDYK3SU-2EQ/
+
+<a name="s_7_nesting"></a>
+
+#### Nesting
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson7_stacks_and_queues/Nesting.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingG7NMTC-FKF/
 
 <a name="licence"></a>
 
