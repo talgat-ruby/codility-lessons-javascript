@@ -32,7 +32,7 @@
         -   ~~NumberOfDiscIntersections~~
     -   [Lesson 7 - Stacks and Queues](#s_7)
         -   [Brackets](#s_7_brackets)
-        -   ~~Fish~~
+        -   [Fish](#s_7_fish)
         -   [Nesting](#s_7_nesting)
 -   [Licence](#licence)
 
@@ -303,6 +303,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson7_s
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingDYK3SU-2EQ/
+
+<a name="s_7_fish"></a>
+
+#### Fish
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson7_stacks_and_queues/Fish.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingZRRPA4-NVP/
 
 <a name="s_7_nesting"></a>
 
