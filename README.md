@@ -34,6 +34,7 @@
         -   [Brackets](#s_7_brackets)
         -   [Fish](#s_7_fish)
         -   [Nesting](#s_7_nesting)
+        -   [StoneWall](#s_7_stone_wall)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -327,6 +328,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson7_s
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingG7NMTC-FKF/
+
+<a name="s_7_stone_wall"></a>
+
+#### StoneWall
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson7_stacks_and_queues/StoneWall.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingDRUBXQ-4DF/
 
 <a name="licence"></a>
 
