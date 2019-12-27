@@ -35,6 +35,8 @@
         -   [Fish](#s_7_fish)
         -   [Nesting](#s_7_nesting)
         -   [StoneWall](#s_7_stone_wall)
+    -   [Lesson 8 - Leader](#s_8)
+        -   [Dominator](#s_8_dominator)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -340,6 +342,22 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson7_s
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingDRUBXQ-4DF/
+
+<a name="s_8"></a>
+
+### Lesson 8 - Leader
+
+<a name="s_8_dominator"></a>
+
+#### Dominator
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson8_leader/Dominator.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/training8RVGBH-APG/
 
 <a name="licence"></a>
 
