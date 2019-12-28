@@ -37,6 +37,7 @@
         -   [StoneWall](#s_7_stone_wall)
     -   [Lesson 8 - Leader](#s_8)
         -   [Dominator](#s_8_dominator)
+        -   [EquiLeader](#s_8_equi_leader)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -358,6 +359,18 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson8_l
 ##### Link to Report
 
 https://app.codility.com/demo/results/training8RVGBH-APG/
+
+<a name="s_8_equi_leader"></a>
+
+#### EquiLeader
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson8_leader/EquiLeader.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingH5UZED-QPT/
 
 <a name="licence"></a>
 
