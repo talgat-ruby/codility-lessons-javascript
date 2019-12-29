@@ -38,6 +38,8 @@
     -   [Lesson 8 - Leader](#s_8)
         -   [Dominator](#s_8_dominator)
         -   [EquiLeader](#s_8_equi_leader)
+    -   [Lesson 9 - Maximum Slice Problem](#s_9)
+        -   [MaxProfit](#s_9_max_profit)
 -   [Licence](#licence)
 
 <a name="installation"></a>
@@ -371,6 +373,22 @@ https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson8_l
 ##### Link to Report
 
 https://app.codility.com/demo/results/trainingH5UZED-QPT/
+
+<a name="s_9"></a>
+
+### Lesson 9 - Maximum Slice Problem
+
+<a name="s_9_max_profit"></a>
+
+#### MaxProfit
+
+##### File
+
+https://github.com/talgat-ruby/codility-lessons-javascript/blob/master/lesson9_maximum_slice_problem/MaxProfit.js
+
+##### Link to Report
+
+https://app.codility.com/demo/results/trainingAVHVTS-7GZ/
 
 <a name="licence"></a>
 
